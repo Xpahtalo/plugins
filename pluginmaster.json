@@ -1,5 +1,26 @@
 [
     {
+        "Author": "daemitus",
+        "Name": "Something Need Doing",
+        "Punchline": "Work work.",
+        "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
+        "InternalName": "SomethingNeedDoing",
+        "AssemblyVersion": "1.4.1.0",
+        "RepoUrl": "https://github.com/Xpahtalo/SomethingNeedDoing",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "LoadPriority": 0,
+        "IconUrl": "https://github.com/Xpahtalo/SomethingNeedDoing/raw/master/res/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/Xpahtalo/plugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Xpahtalo/plugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Xpahtalo/plugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1696530753"
+    },
+    {
         "Author": "X'pahtalo",
         "Name": "Aethersense Redux Reborn",
         "Punchline": "Advanced haptic feedback using Intiface",
@@ -21,7 +42,7 @@
         "DownloadLinkTesting": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AethersenseReduxReborn/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AethersenseReduxReborn/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1696490715"
+        "LastUpdate": "1696530753"
     },
     {
         "Author": "X'pahtalo",
@@ -45,6 +66,6 @@
         "DownloadLinkTesting": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AethersenseReduxReborn/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AethersenseReduxReborn/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1696490715"
+        "LastUpdate": "1696530753"
     }
 ]
