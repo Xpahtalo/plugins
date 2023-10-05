@@ -1,0 +1,21 @@
+{
+  "Author": "X'pahtalo",
+  "Name": "Aethersense Redux Reborn (18+)",
+  "InternalName": "AethersenseReduxReborn",
+  "AssemblyVersion": "0.0.1.0",
+  "Description": "An advanced haptic feedback plugin for game controllers, adult toys, and more using the Buttplug.io library. Requires Intiface Desktop to operate.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Xpahtalo/AetherSenseReduxReborn",
+  "Tags": [
+    "buttplug",
+    "haptic",
+    "erp"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Advanced haptic feedback using Intiface",
+  "AcceptsFeedback": true
+}
