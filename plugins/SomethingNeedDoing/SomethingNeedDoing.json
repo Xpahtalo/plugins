@@ -1,0 +1,18 @@
+{
+  "Author": "daemitus",
+  "Name": "Something Need Doing",
+  "InternalName": "SomethingNeedDoing",
+  "AssemblyVersion": "1.4.1.0",
+  "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Xpahtalo/SomethingNeedDoing",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "IconUrl": "https://github.com/Xpahtalo/SomethingNeedDoing/raw/master/res/icon.png",
+  "Punchline": "Work work.",
+  "AcceptsFeedback": true
+}
