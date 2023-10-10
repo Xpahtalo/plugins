@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://github.com/Xpahtalo/plugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Xpahtalo/plugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1696609672"
+        "LastUpdate": "1696955495"
     },
     {
         "Author": "daemitus",
@@ -39,7 +39,26 @@
         "DownloadLinkTesting": "https://github.com/Xpahtalo/plugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Xpahtalo/plugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1696609672"
+        "LastUpdate": "1696955495"
+    },
+    {
+        "Author": "X'pahtalo",
+        "Name": "AntiAfkKickInHighEndDuty",
+        "Punchline": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Only work in duties found under the high end duty tab.",
+        "Description": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Based on the AntiAFKKick from NightmareXIV but limited to only work in duties found under the high end duty tab. ",
+        "InternalName": "AntiAfkKickInHighEndDuty",
+        "AssemblyVersion": "2.1.0.6",
+        "RepoUrl": "https://github.com/Xpahtalo/AntiAfkKickInHighEndDuty",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AntiAfkKickInHighEndDuty/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AntiAfkKickInHighEndDuty/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AntiAfkKickInHighEndDuty/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1696955495"
     },
     {
         "Author": "X'pahtalo",
@@ -63,6 +82,6 @@
         "DownloadLinkTesting": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AethersenseReduxReborn/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AethersenseReduxReborn/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1696609672"
+        "LastUpdate": "1696955495"
     }
 ]
