@@ -1,0 +1,16 @@
+{
+  "Author": "X'pahtalo",
+  "Name": "AntiAfkKickInHighEndDuty",
+  "InternalName": "AntiAfkKickInHighEndDuty",
+  "AssemblyVersion": "2.1.0.6",
+  "Description": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Based on the AntiAFKKick from NightmareXIV but limited to only work in duties found under the high end duty tab. ",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Xpahtalo/AntiAfkKickInHighEndDuty",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Only work in duties found under the high end duty tab.",
+  "AcceptsFeedback": true
+}
