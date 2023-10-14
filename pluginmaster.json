@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://github.com/Xpahtalo/plugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Xpahtalo/plugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1697053705"
+        "LastUpdate": "1697312732"
     },
     {
         "Author": "daemitus",
@@ -39,7 +39,7 @@
         "DownloadLinkTesting": "https://github.com/Xpahtalo/plugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Xpahtalo/plugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1697053705"
+        "LastUpdate": "1697312732"
     },
     {
         "Author": "X'pahtalo",
@@ -58,7 +58,7 @@
         "DownloadLinkTesting": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AntiAfkKickInHighEndDuty/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AntiAfkKickInHighEndDuty/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1697053705"
+        "LastUpdate": "1697312732"
     },
     {
         "Author": "X'pahtalo",
@@ -66,7 +66,7 @@
         "Punchline": "Advanced haptic feedback using Intiface",
         "Description": "An advanced haptic feedback plugin for game controllers, adult toys, and more using the Buttplug.io library. Requires Intiface Desktop to operate.",
         "InternalName": "AethersenseReduxReborn",
-        "AssemblyVersion": "0.0.1.1",
+        "AssemblyVersion": "0.0.1.2",
         "RepoUrl": "https://github.com/Xpahtalo/AetherSenseReduxReborn",
         "ApplicableVersion": "any",
         "Tags": [
@@ -82,6 +82,6 @@
         "DownloadLinkTesting": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AethersenseReduxReborn/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AethersenseReduxReborn/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1697053705"
+        "LastUpdate": "1697312732"
     }
 ]
