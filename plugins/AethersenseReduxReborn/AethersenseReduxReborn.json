@@ -2,7 +2,7 @@
   "Author": "X'pahtalo",
   "Name": "Aethersense Redux Reborn",
   "InternalName": "AethersenseReduxReborn",
-  "AssemblyVersion": "0.0.1.1",
+  "AssemblyVersion": "0.0.1.2",
   "Description": "An advanced haptic feedback plugin for game controllers, adult toys, and more using the Buttplug.io library. Requires Intiface Desktop to operate.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Xpahtalo/AetherSenseReduxReborn",
