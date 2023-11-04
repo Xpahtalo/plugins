@@ -1,5 +1,29 @@
 [
     {
+        "Author": "X'pahtalo",
+        "Name": "Aethersense Redux Reborn",
+        "Punchline": "Advanced haptic feedback using Intiface",
+        "Description": "An advanced haptic feedback plugin for game controllers, adult toys, and more using the Buttplug.io library. Requires Intiface Desktop to operate.",
+        "InternalName": "AethersenseReduxReborn",
+        "AssemblyVersion": "0.0.1.3",
+        "RepoUrl": "https://github.com/Xpahtalo/AetherSenseReduxReborn",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "buttplug",
+            "haptic",
+            "erp"
+        ],
+        "DalamudApiLevel": 9,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AethersenseReduxReborn/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AethersenseReduxReborn/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AethersenseReduxReborn/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1699134475"
+    },
+    {
         "Author": "daemitus",
         "Name": "Yes Already",
         "Punchline": "Clicks Yes in various dialogs you've specified.",
@@ -18,7 +42,7 @@
         "DownloadLinkTesting": "https://github.com/Xpahtalo/plugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Xpahtalo/plugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1697313006"
+        "LastUpdate": "1699134475"
     },
     {
         "Author": "daemitus",
@@ -39,7 +63,7 @@
         "DownloadLinkTesting": "https://github.com/Xpahtalo/plugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Xpahtalo/plugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1697313006"
+        "LastUpdate": "1699134475"
     },
     {
         "Author": "X'pahtalo",
@@ -58,30 +82,6 @@
         "DownloadLinkTesting": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AntiAfkKickInHighEndDuty/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AntiAfkKickInHighEndDuty/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1697313006"
-    },
-    {
-        "Author": "X'pahtalo",
-        "Name": "Aethersense Redux Reborn",
-        "Punchline": "Advanced haptic feedback using Intiface",
-        "Description": "An advanced haptic feedback plugin for game controllers, adult toys, and more using the Buttplug.io library. Requires Intiface Desktop to operate.",
-        "InternalName": "AethersenseReduxReborn",
-        "AssemblyVersion": "0.0.1.2",
-        "RepoUrl": "https://github.com/Xpahtalo/AetherSenseReduxReborn",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "buttplug",
-            "haptic",
-            "erp"
-        ],
-        "DalamudApiLevel": 9,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AethersenseReduxReborn/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AethersenseReduxReborn/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Xpahtalo/plugins/raw/master/plugins/AethersenseReduxReborn/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1697313006"
+        "LastUpdate": "1699134475"
     }
 ]
